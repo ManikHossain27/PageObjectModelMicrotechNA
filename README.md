@@ -6,7 +6,7 @@ My Test Automation:
 - I use Cucumber to implement BDD approach
 - For Reporting I use Allure report
 
-Here is the URL to the website: https://it.microtechlimited.com/
+
 
 JAVA-SELENIUM-CUCUMBER<br />
 I use Maven as Build Tool<br />
